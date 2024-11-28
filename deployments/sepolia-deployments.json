@@ -1,0 +1,8 @@
+{
+  "network": "sepolia",
+  "router": "0x3361623A4E323e0d3f170b8f39124A5CAccdC725",
+  "factory": "0x4603870b4e0825956842a823cDdDa35426b9Ca01",
+  "weth": "0x86268F605DA130ea51E51cbD90215cE4f6e2A4C4",
+  "timestamp": "2024-11-28T18:47:39.330Z",
+  "deploymentTxHash": "0xc9e6da8b9f750abacf0563abb842865c615d38bfb8c39501b6a31a68a576d5a8"
+}
